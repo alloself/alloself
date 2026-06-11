@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a video streaming service<br>👯 I am looking for cooperation on projects on Vue 3<br>
+🔭 I am currently working on a [Shtab](https://shtab.app/)<br>👯 I am looking for cooperation on projects on Vue 3<br>
 
 
 ## 🌐 Socials:
