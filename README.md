@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a [Shtab](https://shtab.app/)<br>👯 I am looking for cooperation on projects on Vue 3<br>
+🔭 I am looking for cooperation on projects on Vue
 
 
 ## 🌐 Socials:
